@@ -1,0 +1,20 @@
+{
+  "name": "Sander_Logo_Chase",
+  "version": "1.0.0",
+  "description": "Automatically cycles through timed animation: static Sander logo with periodic blue and white wipe effects",
+  "authors": [
+    {
+      "name": "Sander"
+    }
+  ],
+  "keywords": ["wled", "usermod", "animation", "chase", "wipe"],
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "frameworks": "arduino",
+  "platforms": ["espressif8266", "espressif32"],
+  "build": {
+    "libArchive": false
+  }
+}
